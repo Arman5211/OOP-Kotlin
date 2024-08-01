@@ -1,0 +1,4 @@
+package BooksProject
+
+class Book {
+}

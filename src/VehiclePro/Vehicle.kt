@@ -1,0 +1,4 @@
+package VehiclePro
+
+class Vehicle {
+}

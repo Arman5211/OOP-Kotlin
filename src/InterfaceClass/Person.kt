@@ -1,0 +1,4 @@
+package InterfaceClass
+
+interface Person {
+}

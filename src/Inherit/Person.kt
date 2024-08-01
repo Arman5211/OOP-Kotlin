@@ -1,0 +1,4 @@
+package Inherit
+
+class Person {
+}
